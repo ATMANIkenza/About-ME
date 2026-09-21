@@ -26,6 +26,10 @@ Software Engineering Student · Web Developer · AI/ML Developer
 * Experienced in **Web and AI Development, APIs, Microservices & Docker**
 * Always learning and building new projects
 
+### Projects & Collaborations
+
+Most of my work is developed collaboratively through **GitHub Organizations**, where I contribute to web development, AI/ML projects, APIs, microservices, and team-based software engineering projects.
+
 ---
 
 ### Tech Stack
