@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm kenza atmani</h1>
+<h1 align="center">Hi , I'm kenza atmani</h1>
 <h3 align="center">A passionate Web & AI developer from Algeria</h3>
 
-- 🌱 I’m currently learning **LLMs & RAG**
+-  I’m currently learning **LLMs & RAG**
 
-- 📫 How to reach me **kenza_atmani.fs@univ-boumerdes.dz**
+- How to reach me **kenza_atmani.fs@univ-boumerdes.dz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
